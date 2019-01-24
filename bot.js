@@ -60,7 +60,7 @@ bot.start(ctx => {
     return result;
   }
   
-  // Currency converter Wizard
+  
   const calculator = new WizardScene(
     "Calculator",
     ctx => {

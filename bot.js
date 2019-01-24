@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf');
-const config = require('./config.json'); // Holds Telegram API token plus YouTube API token
+const config = require('./config.json'); // Holds Telegram API token 
 const Markup = require("telegraf/markup"); // Get the markup module
 const Stage = require("telegraf/stage");
 const session = require("telegraf/session");
